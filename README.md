@@ -1,4 +1,3 @@
-# GDSC-Selection-Task-Clean-vs-Messy-Image-CLassifier-
 
 # Dataset #
 [Clean vs Messy](https://www.kaggle.com/cdawn1/messy-vs-clean-room) is an image classification dataset.  
