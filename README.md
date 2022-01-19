@@ -8,5 +8,5 @@ The images are classified into 325 species of birds.
 # Tools Used
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 
-# Gradio enables us to deploy our machine learning model with a friendly web interface so that anyone can use it, anywhere!
+## Gradio enables us to deploy our machine learning model with a friendly web interface so that anyone can use it, anywhere!
 ![Screenshot (64)](https://user-images.githubusercontent.com/75988493/150122011-1ea04cf1-c8ad-424a-8dfb-c7a5b134cc0f.png)
